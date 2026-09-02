@@ -86,7 +86,7 @@ La monétisation de flexibilité est secondaire.
 
 ## Partner Ecosystem
 
-### ENGIE
+### COMMERCIAL
 
 Responsable :
 
@@ -144,7 +144,7 @@ Le client évite un investissement initial important.
 
 Le partenaire financier porte l'actif.
 
-ENGIE vend un service.
+COMMERCIAL vend un service.
 
 ## Contract Structure
 
@@ -190,7 +190,7 @@ Investisseur
 
 Risque coordination :
 
-ENGIE
+COMMERCIAL
 
 ## Financial Logic
 
