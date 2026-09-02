@@ -1,10 +1,10 @@
-# Modèle Opérationnel ENGIE FLEX
+# Modèle Opérationnel COMMERCIAL FLEX
 
 ## Statut du document
 
 Ce document présente une hypothèse de travail construite à partir de la description du poste Business Developer Europe Flexibility Behind The Meter.
 
-Le modèle opérationnel réel doit être validé avec ENGIE.
+Le modèle opérationnel réel doit être validé avec COMMERCIAL.
 
 Les éléments à confirmer comprennent :
 
@@ -19,7 +19,7 @@ Les éléments à confirmer comprennent :
 
 ## Objectif
 
-Organiser les capacités d'ENGIE autour d'une proposition de valeur intégrée pour les grands clients industriels européens.
+Organiser les capacités d'COMMERCIAL autour d'une proposition de valeur intégrée pour les grands clients industriels européens.
 
 Le modèle doit permettre de :
 
@@ -301,7 +301,7 @@ Les partenaires peuvent inclure :
 - opérateur local
 - fournisseur de recharge
 
-Le modèle doit préciser quelles capacités ENGIE souhaite posséder et quelles capacités peuvent être externalisées.
+Le modèle doit préciser quelles capacités COMMERCIAL souhaite posséder et quelles capacités peuvent être externalisées.
 
 ## Operations
 
@@ -463,7 +463,7 @@ Le prix ne doit pas reposer uniquement sur un pourcentage du CAPEX.
 
 ## P&L
 
-Les éléments à clarifier avec ENGIE sont :
+Les éléments à clarifier avec COMMERCIAL sont :
 
 - entité portant le chiffre d'affaires
 - entité portant le CAPEX
@@ -588,7 +588,7 @@ Les mécanismes peuvent inclure :
 - KPI partagés
 - processus d'escalade
 
-## Différenciation ENGIE
+## Différenciation COMMERCIAL
 
 La différenciation potentielle repose sur la capacité à combiner :
 
