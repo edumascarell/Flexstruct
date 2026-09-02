@@ -1,3 +1,17 @@
+# France
+ 
+## Vue d'ensemble
+ 
+La France est aujourd'hui l'un des marchés européens les plus attractifs pour les projets de flexibilité.
+ 
+## Principaux moteurs
+ 
+- électrification industrielle
+- croissance des data centers
+- contraintes réseau
+- développement des énergies renouvelables
+- décarbonation de l'industrie
+
 ## Marchés accessibles
  
 - FCR
