@@ -48,7 +48,7 @@ L'objectif est d'éviter ces erreurs.
 
 Fichier :
 
-bess-economics.md
+📄 01-bess-economics.md
 
 Objectif :
 
@@ -198,15 +198,4 @@ Les causes les plus fréquentes de rejet sont :
 
 La section Finance doit permettre de répondre à une question simple :
 
-Le projet crée-t-il suffisamment de valeur pour justifier l'investissement et les risques associés ?
-
-## Conclusion
-
-La finance n'est pas une étape administrative.
-
-La finance est l'outil qui permet de vérifier que :
-
-- la valeur existe réellement
-- les hypothèses sont crédibles
-- les risques sont acceptables
-- le projet mérite d'être exécuté
+Le projet crée-t-il suffisamment de valeur pour justifier l'investissement
