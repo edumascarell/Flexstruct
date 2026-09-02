@@ -8,9 +8,9 @@ L'objectif n'est pas de tout faire.
 
 L'objectif est de déterminer :
 
-- ce qu'ENGIE doit maîtriser
-- ce qu'ENGIE doit orchestrer
-- ce qu'ENGIE peut externaliser
+- ce qu'COMMERCIAL doit maîtriser
+- ce qu'COMMERCIAL doit orchestrer
+- ce qu'COMMERCIAL peut externaliser
 - ce qui crée un avantage compétitif durable
 
 ## Principe fondamental
@@ -19,7 +19,7 @@ Un projet de flexibilité est rarement réalisé par une seule entreprise.
 
 La création de valeur dépend de la qualité de l'écosystème.
 
-Le rôle d'ENGIE est d'orchestrer cet écosystème autour du client.
+Le rôle d'COMMERCIAL est d'orchestrer cet écosystème autour du client.
 
 ## Vision
 
@@ -32,7 +32,7 @@ Le client ne recherche pas :
 
 Le client recherche une solution.
 
-Le client attend qu'ENGIE coordonne les acteurs nécessaires.
+Le client attend qu'COMMERCIAL coordonne les acteurs nécessaires.
 
 ## Catégories de partenaires
 
@@ -97,7 +97,7 @@ Critères :
 
 Question stratégique :
 
-ENGIE doit-il utiliser des EMS tiers ou développer ses propres capacités ?
+COMMERCIAL doit-il utiliser des EMS tiers ou développer ses propres capacités ?
 
 ## EPC
 
@@ -260,7 +260,7 @@ Utilisation :
 - modèles de flexibilité
 - marchés émergents
 
-## Ce qu'ENGIE doit conserver
+## Ce qu'COMMERCIAL doit conserver
 
 Les compétences critiques à conserver peuvent inclure :
 
@@ -276,7 +276,7 @@ Les compétences critiques à conserver peuvent inclure :
 
 Ces compétences créent la différenciation.
 
-## Ce qu'ENGIE peut externaliser
+## Ce qu'COMMERCIAL peut externaliser
 
 Selon les cas :
 
@@ -311,13 +311,13 @@ L'externalisation ne doit pas créer une dépendance excessive.
 
 ### Stratégique
 
-- compatibilité avec la vision ENGIE
+- compatibilité avec la vision COMMERCIAL
 - potentiel européen
 - capacité d'innovation
 
 ## Stratégie européenne
 
-ENGIE doit maximiser :
+COMMERCIAL doit maximiser :
 
 - standardisation
 - réplicabilité
@@ -353,7 +353,7 @@ Risques possibles :
 
 ## Vision cible
 
-ENGIE agit comme orchestrateur.
+COMMERCIAL agit comme orchestrateur.
 
 Les partenaires apportent :
 
@@ -362,7 +362,7 @@ Les partenaires apportent :
 - exécution
 - optimisation
 
-ENGIE assemble ces capacités pour créer une offre de flexibilité industrielle cohérente, réplicable et rentable.
+COMMERCIAL assemble ces capacités pour créer une offre de flexibilité industrielle cohérente, réplicable et rentable.
 
 ## Conclusion
 
