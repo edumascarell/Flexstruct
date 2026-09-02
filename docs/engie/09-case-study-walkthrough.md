@@ -2,411 +2,319 @@
 
 ## Purpose
 
-The objective of this document is to demonstrate how FLEXSTRUCT is applied from the first customer discussion to the final investment recommendation.
+## How to Use This Walkthrough
 
-This walkthrough follows a real-life style industrial opportunity and shows how each module of the framework contributes to the final decision.
+## The FLEXSTRUCT Method in Practice
 
-The purpose is not to design a battery project.
+## Executive Summary
 
-The purpose is to determine whether a customer opportunity should be developed, financed and executed.
+## Project Overview
 
-## Selected Case
+### Customer
+### Site
+### Country
+### Sector
+### Initial Situation
+### Trigger Event
 
-Automotive Manufacturing Plant
+# Phase 1 - Opportunity Qualification
 
-The customer plans to install a new electric vehicle production line.
+## Customer Job
 
-The project requires additional electrical capacity before the planned network reinforcement becomes available.
+### What Is the Customer Trying to Achieve?
+### Primary Objectives
+### Success Criteria
 
-## Step 1
+## Customer Pain
 
-### Customer Jobs
+### Operational Pain
+### Financial Pain
+### Strategic Pain
 
-Reference :
+## Customer Gain
 
-01-customer-jobs.md
+### Operational Gains
+### Financial Gains
+### Strategic Gains
 
-The first question is not:
+## Qualification Decision
 
-"What battery size should we install?"
+### Should We Continue?
+### Initial Go / No-Go Assessment
 
-The first question is:
+# Phase 2 - Flexibility Assessment
 
-"What is the customer trying to achieve?"
+## Site Analysis
 
-Customer objectives:
+### Existing Infrastructure
+### Consumption Profile
+### Production Constraints
 
-- launch a new production line
-- meet industrial deadlines
-- maintain competitiveness
-- avoid project delays
-- secure future growth
+## Flexibility Inventory
 
-Conclusion:
+### Existing Flexible Assets
+### Potential Flexible Assets
 
-The customer is not buying energy storage.
+## Critical Loads
 
-The customer is buying industrial growth.
+### Non-Negotiable Loads
+### Operational Constraints
 
-## Step 2
+## Flexible Loads
 
-### Customer Pains
+### Shiftable Loads
+### Interruptible Loads
+### Controllable Loads
 
-The site currently operates with:
+## Residual Flexibility Analysis
 
-- 18 MW subscribed capacity
-- 16 MW observed peak demand
+### Capacity Reserved for the Customer
+### Variable Residual Flexibility
+### Firm Residual Flexibility
 
-The new production line requires:
+## Flexibility Qualification Decision
 
-- 8 MW additional capacity
+### Is the Opportunity Real?
+### Is Flexibility Commercialisable?
 
-Without a solution:
+# Phase 3 - Service Design
 
-- production launch is delayed
-- industrial investments are delayed
-- business objectives are not achieved
+## Service Catalogue Review
 
-Conclusion:
+### Available Services
+### Rejected Services
+### Selected Service
 
-The real pain is not energy cost.
+## Service Definition
 
-The real pain is capacity shortage.
+### Primary Service
+### Secondary Services
+### Customer Value Proposition
 
-## Step 3
+## Service Validation
 
-### Flexibility Inventory
+### Why This Service?
+### Why Not the Alternatives?
 
-Reference :
+# Phase 4 - Technical Architecture
 
-02-flexibility-inventory.md
+## Solution Design
 
-The objective is to identify available flexibility.
+### Core Assets
+### Supporting Assets
+### Digital Layer
 
-Existing assets:
+## Proposed Technical Architecture
 
-- rooftop PV
-- EMS
-- industrial HVAC
-- EV charging infrastructure
+### BESS
+### EMS
+### PV
+### DSM
+### Smart Charging
+### Other Assets
 
-Potential new asset:
+## Sizing Logic
 
-- BESS 10 MW
-- BESS 20 MWh
+### Why This Size?
+### Alternative Scenarios
+### Trade-Off Analysis
 
-Estimated flexible capacity:
+## Technical Feasibility Decision
 
-- 3 MW to 5 MW residual flexibility
+# Phase 5 - Business Model Design
 
-Key question:
+## Value Creation Logic
 
-What flexibility remains available after protecting industrial operations?
+### Customer Value
+### ENGIE Value
+### Investor Value
+### Partner Value
 
-Conclusion:
+## Revenue Streams
 
-A residual flexibility block exists and may be monetised.
+### Contractual Revenues
+### Customer Savings
+### Market Revenues
+### Strategic Value
 
-## Step 4
+## Business Model Evaluation
 
-### Service Selection
+### Option 1
+### Option 2
+### Option 3
 
-Reference :
+## Selected Business Model
 
-03-service-catalog.md
+### Rationale
+### Expected Benefits
 
-Possible services:
+# Phase 6 - Partner Ecosystem
 
-- peak shaving
-- resilience
-- energy optimisation
-- flexibility monetisation
-- electrification enablement
+## Required Capabilities
 
-Selected service:
+## Partner Mapping
 
-Electrification Enablement
+### ENGIE
+### OEM
+### EMS Provider
+### EPC
+### Optimizer
+### Investor
 
-Reason:
+## Why These Partners?
 
-The customer's priority is access to additional capacity.
+## Governance Model
 
-Conclusion:
+### Roles and Responsibilities
+### Accountability
+### Interfaces
 
-The battery is not the service.
+# Phase 7 - Contract Structuring
 
-The service is capacity enablement.
+## Contract Options Considered
 
-## Step 5
+### Asset Sale
+### Storage as a Service
+### Flexibility as a Service
+### Revenue Share
+### Revenue Floor
+### Tolling
 
-### Business Model Selection
+## Selected Structure
 
-Reference :
+### Main Contract
+### Secondary Agreements
 
-04-business-models.md
+## Dispatch Rights
 
-Possible options:
+## Recall Rights
 
-- Asset Sale
-- Storage as a Service
-- Flexibility as a Service
-- Shared Savings
-- Revenue Share
+## Revenue Allocation
 
-Selected model:
+## Contract Decision
 
-Storage as a Service
+# Phase 8 - Risk Allocation
 
-Reason:
+## Risk Identification
 
-- customer prefers OPEX
-- customer avoids large initial CAPEX
-- ENGIE can structure financing
-- service orientation is preferred
+### Technical Risks
+### Commercial Risks
+### Market Risks
+### Operational Risks
+### Financial Risks
 
-Conclusion:
+## Risk Allocation Matrix
 
-Value comes from delivered service rather than equipment ownership.
+## Mitigation Actions
 
-## Step 6
+## Residual Risks
 
-### Contract Selection
+## Risk Committee View
 
-Reference :
+# Phase 9 - Financial Assessment
 
-../contracts/02-contract-selector.md
+## Economic Assumptions
 
-Selected structure:
+## CAPEX
 
-Storage as a Service
+## OPEX
 
-Additional clause:
+## Expected Revenues
 
-Revenue Share on residual flexibility
+## Profitability Metrics
 
-Key principles:
+### EBITDA
+### Cash Flow
+### NPV
+### IRR
+### Payback
+### DSCR
 
-- industrial priority protected
-- customer retains recall rights
-- residual flexibility only is commercialised
+## Value Drivers
 
-Conclusion:
+## Financing Structure
 
-The contract aligns customer value and ENGIE value.
+# Phase 10 - Sensitivity Analysis
 
-## Step 7
+## Base Case
 
-### Risk Allocation
+## Downside Case
 
-Reference :
+## Upside Case
 
-05-risk-allocation.md
+## Tornado Analysis
 
-Industrial Risk
+### Revenue Sensitivity
+### CAPEX Sensitivity
+### Availability Sensitivity
+### Degradation Sensitivity
 
-Customer
+## Main Investment Risks
 
-Construction Risk
+## Investment Killers
 
-EPC
+# Phase 11 - Investment Committee Review
 
-Battery Performance Risk
+## Strategic Fit
 
-OEM
+## Customer Value
 
-Optimization Risk
+## Technical Feasibility
 
-Market Optimizer
+## Commercial Structure
 
-Market Risk
+## Risk Assessment
 
-Shared
+## Bankability
 
-Financing Risk
+## Governance
 
-Investor
+## Conditions Precedent
 
-Coordination Risk
+## Investment Committee Recommendation
 
-ENGIE
+# Phase 12 - Final Decision
 
-Conclusion:
+## GO / NO GO Framework
 
-Each risk is assigned to the party best positioned to manage it.
+## Decision Tree Application
 
-## Step 8
+## Final Recommendation
 
-### Financial Assessment
+## Conditions to Proceed
 
-Reference :
+# Lessons Learned
 
-../finance/01-bess-economics.md
+## What Created Value?
 
-Main value sources:
+## What Could Have Destroyed Value?
 
-- capacity enablement
-- accelerated project deployment
-- reduced connection constraints
-- residual flexibility revenues
+## Key Decisions
 
-Important principle:
+## Replicability Potential
 
-The project must remain viable even if flexibility revenues decrease significantly.
+## Application to Other Sectors
 
-The primary value driver remains the industrial benefit.
+### Data Centers
+### Chemical Plants
+### Logistics Hubs
 
-Conclusion:
+# FLEXSTRUCT Summary
 
-The project cannot depend exclusively on ancillary service revenues.
+## Customer Job
 
-## Step 9
+## Flexibility
 
-### Partner Ecosystem
+## Service
 
-Reference :
+## Business Model
 
-../engie/01-partner-ecosystem.md
+## Contract
 
-Required partners:
+## Risk
 
-- Battery OEM
-- EMS Provider
-- EPC
-- Investor
-- Market Optimizer
+## Finance
 
-ENGIE responsibilities:
+## Decision
 
-- customer relationship
-- commercial structuring
-- financial structuring
-- contract negotiation
-- overall coordination
-
-Conclusion:
-
-ENGIE creates value by orchestrating the ecosystem.
-
-## Step 10
-
-### Investment Committee Assessment
-
-Reference :
-
-07-investment-committee.md
-
-Strategic Fit
-
-Strong
-
-Customer Value
-
-Strong
-
-Technical Feasibility
-
-Strong
-
-Commercial Structure
-
-Medium to Strong
-
-Risk
-
-Medium
-
-Bankability
-
-Strong
-
-Preliminary Recommendation
-
-GO WITH CONDITIONS
-
-Conditions:
-
-- connection validation
-- financing approval
-- final customer signature
-
-## Step 11
-
-### Final Decision
-
-Reference :
-
-08-decision-tree.md
-
-Question:
-
-Does the project solve a meaningful customer problem?
-
-Yes
-
-Question:
-
-Is flexibility available?
-
-Yes
-
-Question:
-
-Does a robust business model exist?
-
-Yes
-
-Question:
-
-Are risks manageable?
-
-Yes
-
-Question:
-
-Is the project financeable?
-
-Yes
-
-Final Recommendation:
-
-GO WITH CONDITIONS
-
-## Lessons Learned
-
-The opportunity started with:
-
-an industrial problem
-
-and not with:
-
-a battery project.
-
-The framework transformed:
-
-industrial need
-
-into
-
-service
-
-into
-
-business model
-
-into
-
-contract
-
-into
-
-risk allocation
-
-into
-
-investment decision.
-
-This is the purpose of FLEXSTRUCT.
-
-Technology is the enabler.
-
-Industrial value is the objective.
+## Final Takeaway
