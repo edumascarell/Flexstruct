@@ -2,9 +2,7 @@
 
 ### France
 
-Fichier :
-
-📄 [01-france.md](01-france.md)
+Fichier : [01-france.md](01-france.md)
 
 Thèmes principaux :
 
