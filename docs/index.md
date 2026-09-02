@@ -6,11 +6,13 @@
 
 Core methodology.
 
-➡️ [Open Framework](framework/ntracts
+➡️ framework/README.md
+
+### Contracts
 
 Contract structures and selection.
 
-➡️ contracts/README.md
+➡️ [Open ContractsE.md
 
 ### Finance
 
@@ -34,4 +36,4 @@ Operating model, partner ecosystem and case studies.
 
 Author and background.
 
-➡️ [Open About](about/README
+➡️ [Open/README.md
