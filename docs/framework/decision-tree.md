@@ -171,24 +171,23 @@ Le contrat est sélectionné en fonction :
  
 ## Résultat Final
  
-Customer Job
+- Customer Job
  
-Contrainte
+- Contrainte
  
-Flexibility Inventory
+- Flexibility Inventory
  
-Bloc Résiduel
+- Bloc Résiduel
  
-Qualification
+- Qualification
  
-Contrat
+- Contrat
  
-Monétisation
+- Monétisation
  
-Bancabilité
+- Bancabilité
  
-Décision
-
+- Décision
  
 17
 Étape 8 : Bancabilité
