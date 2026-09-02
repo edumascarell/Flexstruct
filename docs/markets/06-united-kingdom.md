@@ -134,9 +134,9 @@ Les principales leçons sont :
 - coordonner marchés nationaux et locaux
 - différencier flexibilité technique et produit commercial
 
-## Opportunité pour ENGIE
+## Opportunité pour COMMERCIAL
 
-ENGIE peut utiliser le Royaume-Uni comme source d'expérience pour :
+COMMERCIAL peut utiliser le Royaume-Uni comme source d'expérience pour :
 
 - conception de produits
 - accès aux marchés
