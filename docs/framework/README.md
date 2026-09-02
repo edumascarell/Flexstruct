@@ -63,13 +63,11 @@ Fichier :
 
 business-models.md
 
-### 5. Contract Selector
+### 5. Contract Selection
 
-Choisir la structure contractuelle adaptée.
+Module :
 
-Fichier :
-
-contract-selector.md
+../contracts/contract-selector.md
 
 ### 6. Risk Allocation
 
