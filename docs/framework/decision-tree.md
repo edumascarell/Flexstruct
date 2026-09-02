@@ -176,21 +176,13 @@ Customer Job
 ↓
  
 Contrainte
- 
 ↓
- 
 Flexibility Inventory
- 
 ↓
- 
 Bloc Résiduel
- 
 ↓
- 
 Qualification
- 
 ↓
- 
 Contrat
  
 ↓
