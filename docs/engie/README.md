@@ -1,8 +1,8 @@
-# ENGIE
+# COMMERCIAL
 
 ## Objectif
 
-Comprendre comment ENGIE peut développer, structurer, financer, exploiter et industrialiser des solutions de flexibilité Behind The Meter à l'échelle européenne.
+Comprendre comment COMMERCIAL peut développer, structurer, financer, exploiter et industrialiser des solutions de flexibilité Behind The Meter à l'échelle européenne.
 
 Cette section rassemble :
 
@@ -25,7 +25,7 @@ Le client achète :
 - visibilité financière
 - réduction des risques
 
-La mission d'ENGIE est de transformer ces besoins en services rentables, bancables, exécutables et réplicables.
+La mission d'COMMERCIAL est de transformer ces besoins en services rentables, bancables, exécutables et réplicables.
 
 ## Fondations stratégiques
 
@@ -42,7 +42,7 @@ Définir la proposition de valeur de la flexibilité industrielle.
 Contenu principal :
 
 - valeur client
-- valeur ENGIE
+- valeur COMMERCIAL
 - électrification
 - compétitivité
 - time-to-power
@@ -57,7 +57,7 @@ Fichier :
 
 Objectif :
 
-Comprendre comment les différentes fonctions d'ENGIE contribuent au développement et à l'exécution d'une opportunité.
+Comprendre comment les différentes fonctions d'COMMERCIAL contribuent au développement et à l'exécution d'une opportunité.
 
 Contenu principal :
 
@@ -75,7 +75,7 @@ Contenu principal :
 - P&L
 - RACI
 
-Le modèle présenté constitue une hypothèse de travail à valider avec ENGIE.
+Le modèle présenté constitue une hypothèse de travail à valider avec COMMERCIAL.
 
 ### Partner Ecosystem
 
@@ -329,7 +329,7 @@ Garantir :
 
 ## Questions stratégiques
 
-Comment ENGIE peut-il :
+Comment COMMERCIAL peut-il :
 
 - accélérer l'électrification ?
 - améliorer le time-to-power ?
@@ -341,7 +341,7 @@ Comment ENGIE peut-il :
 - développer un portefeuille européen ?
 - construire des offres réplicables ?
 
-## Questions à valider avec ENGIE
+## Questions à valider avec COMMERCIAL
 
 Les éléments suivants doivent être confirmés :
 
@@ -362,7 +362,7 @@ Les éléments suivants doivent être confirmés :
 Transformer un besoin industriel en une offre de flexibilité :
 
 - utile pour le client
-- rentable pour ENGIE
+- rentable pour COMMERCIAL
 - bancable
 - contractuellement robuste
 - opérationnellement exécutable
@@ -370,9 +370,9 @@ Transformer un besoin industriel en une offre de flexibilité :
 
 ## Conclusion
 
-ENGIE ne vend pas uniquement des technologies.
+COMMERCIAL ne vend pas uniquement des technologies.
 
-ENGIE peut combiner :
+COMMERCIAL peut combiner :
 
 - expertise industrielle
 - fourniture d'énergie
