@@ -4,13 +4,19 @@
 
 Comprendre comment ENGIE peut développer, structurer, financer, exploiter et industrialiser des solutions de flexibilité Behind The Meter à l'échelle européenne.
 
-Cette section rassemble les éléments les plus directement liés au rôle de Business Developer Europe Flexibility.
+Cette section rassemble :
 
-## Vision
+- la proposition de valeur
+- le modèle opérationnel
+- la stratégie de partenaires
+- le walkthrough complet
+- les études de cas sectorielles
 
-Le client industriel ne recherche pas une batterie.
+## Thèse centrale
 
-Le client recherche :
+Le client industriel n'achète pas une batterie.
+
+Le client achète :
 
 - continuité opérationnelle
 - capacité d'électrification
@@ -19,33 +25,11 @@ Le client recherche :
 - visibilité financière
 - réduction des risques
 
-ENGIE crée de la valeur en transformant ces besoins en services commercialisables.
+La mission d'ENGIE est de transformer ces besoins en services rentables, bancables, exécutables et réplicables.
 
-## Comment ENGIE crée de la valeur
+## Fondations stratégiques
 
-La différenciation potentielle d'ENGIE repose sur la combinaison de :
-
-- relation client
-- fourniture d'énergie
-- optimisation énergétique
-- market access
-- trading
-- flexibilité
-- financement
-- structuration contractuelle
-- opérations
-
-La valeur ne provient pas d'une capacité isolée.
-
-La valeur provient de leur orchestration.
-
-## Structure de cette section
-
-### Strategic Foundations
-
-Comprendre comment ENGIE positionne la flexibilité industrielle.
-
-#### Value Proposition
+### Value Proposition
 
 Fichier :
 
@@ -55,7 +39,17 @@ Objectif :
 
 Définir la proposition de valeur de la flexibilité industrielle.
 
-#### Operating Model
+Contenu principal :
+
+- valeur client
+- valeur ENGIE
+- électrification
+- compétitivité
+- time-to-power
+- flexibilité résiduelle
+- monétisation
+
+### Operating Model
 
 Fichier :
 
@@ -63,9 +57,27 @@ Fichier :
 
 Objectif :
 
-Comprendre comment les différentes fonctions contribuent à une opportunité.
+Comprendre comment les différentes fonctions d'ENGIE contribuent au développement et à l'exécution d'une opportunité.
 
-#### Partner Ecosystem
+Contenu principal :
+
+- One B2B Large Accounts
+- Business Development
+- Flex Hub
+- Supply
+- Market Access
+- Trading
+- Engineering
+- Finance
+- Legal
+- Operations
+- gouvernance
+- P&L
+- RACI
+
+Le modèle présenté constitue une hypothèse de travail à valider avec ENGIE.
+
+### Partner Ecosystem
 
 Fichier :
 
@@ -73,11 +85,65 @@ Fichier :
 
 Objectif :
 
-Définir la stratégie de partenaires nécessaire au déploiement de solutions de flexibilité.
+Définir la stratégie de partenaires nécessaire au développement et au déploiement des solutions de flexibilité.
+
+Contenu principal :
+
+- OEM batteries
+- EMS
+- EPC
+- intégrateurs
+- optimisateurs
+- agrégateurs
+- investisseurs
+- assureurs
+- partenaires digitaux
+- gouvernance de l'écosystème
+
+## Case Study Walkthrough
+
+Fichier :
+
+09-case-study-walkthrough.md
+
+Objectif :
+
+Montrer comment appliquer FLEXSTRUCT depuis l'identification du besoin client jusqu'à la recommandation finale du Comité d'Investissement.
+
+Le walkthrough relie :
+
+- Customer Jobs
+- Customer Pains
+- Flexibility Inventory
+- Service Selection
+- Technical Architecture
+- Business Model
+- Partner Ecosystem
+- Contract Selection
+- Risk Allocation
+- Financial Assessment
+- Sensitivity Analysis
+- Investment Committee
+- Final Decision
 
 ## Case Studies
 
-Applications sectorielles du framework FLEXSTRUCT.
+Les études de cas montrent comment FLEXSTRUCT peut être appliqué à différents secteurs.
+
+Chaque étude suit une logique commune :
+
+- Customer Job
+- Pain
+- Gain
+- Flexibility Inventory
+- Service
+- Partner Ecosystem
+- Business Model
+- Contract Structure
+- Risk Allocation
+- Financial Logic
+- Investment Committee
+- Key Learning
 
 ### Automotive Manufacturing Plant
 
@@ -85,13 +151,20 @@ Fichier :
 
 10-case-study-automotive-plant.md
 
-Thèmes :
+Service principal :
 
-- électrification
-- capacité réseau
-- BESS
-- time-to-power
-- financement
+Electrification Enablement
+
+Création de valeur dominante :
+
+- accès à la capacité électrique
+- accélération du projet industriel
+- maintien de la compétitivité
+- réduction du délai
+
+Décision indicative :
+
+GO WITH CONDITIONS
 
 ### Data Center
 
@@ -99,12 +172,20 @@ Fichier :
 
 11-case-study-datacenter.md
 
-Thèmes :
+Service principal :
 
-- time-to-power
-- raccordement
-- résilience
-- capacité disponible
+Capacity Enablement
+
+Création de valeur dominante :
+
+- amélioration du time-to-power
+- accélération de la mise en service
+- capacité d'accueil de nouvelles charges IT
+- maintien du calendrier commercial
+
+Décision indicative :
+
+GO
 
 ### Chemical Plant
 
@@ -112,12 +193,20 @@ Fichier :
 
 12-case-study-chemical-plant.md
 
-Thèmes :
+Service principal :
 
-- DSM
-- optimisation énergétique
-- flexibilité de process
-- shared savings
+Demand Side Management
+
+Création de valeur dominante :
+
+- réduction des coûts énergétiques
+- flexibilité des procédés
+- optimisation des pointes
+- amélioration de la compétitivité industrielle
+
+Décision indicative :
+
+GO WITH CONDITIONS
 
 ### Logistics Hub
 
@@ -125,44 +214,107 @@ Fichier :
 
 13-case-study-logistics-hub.md
 
-Thèmes :
+Service principal :
 
-- électrification flotte
+Electrification Enablement
+
+Création de valeur dominante :
+
+- électrification accélérée de la flotte
 - smart charging
-- BESS
-- optimisation de puissance
+- optimisation du raccordement
+- disponibilité des véhicules
 
-## Capacités Clés
+Décision indicative :
+
+GO WITH CONDITIONS
+
+## Lecture comparative
+
+### Automotive Plant
+
+Valeur dominante :
+
+Electrification Enablement
+
+### Data Center
+
+Valeur dominante :
+
+Time-to-Power Enablement
+
+### Chemical Plant
+
+Valeur dominante :
+
+Industrial Competitiveness Enablement
+
+### Logistics Hub
+
+Valeur dominante :
+
+Fleet Electrification Enablement
+
+## Capacités clés
 
 ### Customer Understanding
 
 Comprendre :
 
-- les besoins industriels
-- les contraintes
-- les pains
-- les gains attendus
+- plan industriel
+- objectifs du client
+- contraintes
+- pains
+- gains attendus
+- volonté de payer
 
 ### Solution Design
 
 Construire :
 
-- le service
-- le modèle économique
-- la structure contractuelle
-- la stratégie de monétisation
+- service
+- architecture technique
+- dimensionnement
+- modèle économique
+- structure contractuelle
+- stratégie de monétisation
+
+### Partner Orchestration
+
+Coordonner :
+
+- OEM
+- EPC
+- EMS
+- intégrateurs
+- optimisateurs
+- agrégateurs
+- investisseurs
+- opérateurs
+
+### Market Access
+
+Valoriser uniquement la flexibilité résiduelle compatible avec les priorités industrielles.
+
+### Risk Management
+
+Identifier :
+
+- risques
+- responsabilités
+- garanties
+- mesures de mitigation
+- risque résiduel
 
 ### Financing
 
 Déterminer :
 
 - qui investit
-- qui porte l'actif
-- qui assume les risques financiers
-
-### Market Access
-
-Créer de la valeur à partir de la flexibilité résiduelle.
+- qui possède l'actif
+- qui porte le financement
+- qui capture l'upside
+- qui assume le downside
 
 ### Operations
 
@@ -171,55 +323,69 @@ Garantir :
 - disponibilité
 - performance
 - sécurité
+- pilotage
 - reporting
+- respect des engagements client
 
-## Questions Stratégiques
+## Questions stratégiques
 
 Comment ENGIE peut-il :
 
 - accélérer l'électrification ?
-- réduire le time-to-power ?
+- améliorer le time-to-power ?
 - valoriser la flexibilité industrielle ?
+- intégrer plusieurs technologies ?
 - industrialiser les offres ?
 - standardiser les contrats ?
 - améliorer la bancabilité ?
-- créer un portefeuille européen ?
+- développer un portefeuille européen ?
 - construire des offres réplicables ?
 
-## Vision Européenne
+## Questions à valider avec ENGIE
 
-Le même framework doit pouvoir être appliqué en :
+Les éléments suivants doivent être confirmés :
 
-- France
-- Allemagne
-- Belgique
-- Pays-Bas
-- Espagne
-- Royaume-Uni
+- propriété de la relation client
+- responsabilité du P&L
+- autorité de pricing
+- financement des actifs
+- responsabilité du risque merchant
+- contrôle du dispatch
+- rôle exact du Flex Hub
+- autonomie des entités pays
+- allocation de la marge
+- offres déjà standardisées
+- KPI du Business Developer
 
-avec les adaptations nécessaires à chaque marché.
+## Résultat attendu
 
-## Résultat Attendu
+Transformer un besoin industriel en une offre de flexibilité :
 
-Transformer :
-
-un besoin industriel
-
-en
-
-une offre de flexibilité rentable, bancable, exécutable et réplicable.
+- utile pour le client
+- rentable pour ENGIE
+- bancable
+- contractuellement robuste
+- opérationnellement exécutable
+- réplicable à l'échelle européenne
 
 ## Conclusion
 
 ENGIE ne vend pas uniquement des technologies.
 
-ENGIE combine :
+ENGIE peut combiner :
 
 - expertise industrielle
-- énergie
+- fourniture d'énergie
 - flexibilité
+- market access
+- trading
 - financement
 - contrats
+- partenaires
 - opérations
 
 pour résoudre des problèmes industriels complexes à grande échelle.
+
+La batterie, le DSM, le photovoltaïque, le smart charging et le V2G sont des outils.
+
+Le véritable produit est le service rendu au client.
