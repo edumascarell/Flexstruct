@@ -118,7 +118,7 @@ Les risques à analyser sont :
 - évolution réglementaire
 - dépendance à un revenu unique
 
-## Opportunité pour ENGIE
+## Opportunité pourCOMMERCIAL
 
 ENGIE peut combiner :
 
