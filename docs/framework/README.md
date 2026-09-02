@@ -158,15 +158,18 @@ en
 une décision structurée, défendable et réplicable.
 
 ## Documents du Framework
-
+ 
 - customer-jobs.md
 - flexibility-inventory.md
 - service-catalog.md
 - business-models.md
-- contract-selector.md
 - risk-allocation.md
 - investment-committee.md
 - decision-tree.md
+ 
+Le module Contract Selection est disponible dans :
+ 
+../contracts/contract-selector.md
 
 ## Conclusion
 
