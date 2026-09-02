@@ -40,63 +40,63 @@ Caractéristiques :
  
 Exposition totale au marché.
  
-Caractéristiques :
+### Caractéristiques
  
 - risque élevé
 - potentiel de revenus élevé
 - forte volatilité
  
----
- 
 ## Bankability
+ 
+### Définition
  
 Capacité d'un projet à être financé par des banques ou des investisseurs.
  
 Un projet rentable n'est pas nécessairement bancable.
  
----
- 
 ## RTB
+ 
+### Définition
  
 Ready To Build.
  
 Projet entièrement développé et prêt à entrer en construction.
  
----
- 
 ## COD
+ 
+### Définition
  
 Commercial Operation Date.
  
 Date de démarrage de l'exploitation commerciale.
  
----
- 
 ## FCR
+ 
+### Définition
  
 Frequency Containment Reserve.
  
 Réserve primaire de fréquence.
  
----
- 
 ## aFRR
+ 
+### Définition
  
 Automatic Frequency Restoration Reserve.
  
 Réserve secondaire automatique.
  
----
- 
 ## mFRR
+ 
+### Définition
  
 Manual Frequency Restoration Reserve.
  
 Réserve tertiaire manuelle.
  
----
- 
 ## Value Stacking
+ 
+### Définition
  
 Combinaison de plusieurs sources de revenus :
  
