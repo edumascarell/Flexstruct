@@ -2,17 +2,15 @@
 
 ## Objectif
 
-Comprendre comment ENGIE peut développer, structurer, financer et exploiter des solutions de flexibilité industrielle à l'échelle européenne.
+Comprendre comment ENGIE peut développer, structurer, financer, exploiter et industrialiser des solutions de flexibilité Behind The Meter à l'échelle européenne.
 
-Cette section ne cherche pas à décrire ENGIE dans son ensemble.
+Cette section rassemble les éléments les plus directement liés au rôle de Business Developer Europe Flexibility.
 
-Elle se concentre sur les capacités nécessaires au développement d'offres de flexibilité Behind The Meter.
+## Vision
 
-## Thèse centrale
+Le client industriel ne recherche pas une batterie.
 
-Le client industriel n'achète pas une batterie.
-
-Le client achète :
+Le client recherche :
 
 - continuité opérationnelle
 - capacité d'électrification
@@ -21,15 +19,15 @@ Le client achète :
 - visibilité financière
 - réduction des risques
 
-La mission d'ENGIE est de transformer ces besoins en services rentables et réplicables.
+ENGIE crée de la valeur en transformant ces besoins en services commercialisables.
 
-## Pourquoi ENGIE peut créer de la valeur
+## Comment ENGIE crée de la valeur
 
-La différenciation potentielle d'ENGIE repose sur sa capacité à combiner :
+La différenciation potentielle d'ENGIE repose sur la combinaison de :
 
 - relation client
 - fourniture d'énergie
-- optimisation
+- optimisation énergétique
 - market access
 - trading
 - flexibilité
@@ -37,13 +35,17 @@ La différenciation potentielle d'ENGIE repose sur sa capacité à combiner :
 - structuration contractuelle
 - opérations
 
-La valeur ne réside pas dans chaque capacité prise isolément.
+La valeur ne provient pas d'une capacité isolée.
 
-La valeur réside dans leur orchestration.
+La valeur provient de leur orchestration.
 
-## Documents
+## Structure de cette section
 
-### Value Proposition
+### Strategic Foundations
+
+Comprendre comment ENGIE positionne la flexibilité industrielle.
+
+#### Value Proposition
 
 Fichier :
 
@@ -53,16 +55,7 @@ Objectif :
 
 Définir la proposition de valeur de la flexibilité industrielle.
 
-Contenu principal :
-
-- valeur client
-- valeur ENGIE
-- flexibilité industrielle
-- électrification
-- BESS Behind The Meter
-- monétisation
-
-### Operating Model
+#### Operating Model
 
 Fichier :
 
@@ -72,20 +65,7 @@ Objectif :
 
 Comprendre comment les différentes fonctions contribuent à une opportunité.
 
-Contenu principal :
-
-- Sales
-- Business Development
-- Flex Hub
-- Supply
-- Trading
-- Engineering
-- Finance
-- Legal
-- Operations
-- gouvernance
-
-### Partner Ecosystem
+#### Partner Ecosystem
 
 Fichier :
 
@@ -93,37 +73,64 @@ Fichier :
 
 Objectif :
 
-Définir la stratégie de partenaires.
+Définir la stratégie de partenaires nécessaire au déploiement de solutions de flexibilité.
 
-Contenu principal :
+## Case Studies
 
-- OEM
-- EMS
-- EPC
-- Optimisateurs
-- Agrégateurs
-- Investisseurs
-- Assureurs
-- Partenaires digitaux
+Applications sectorielles du framework FLEXSTRUCT.
 
-### Automotive Plant Case Study
+### Automotive Manufacturing Plant
 
 Fichier :
 
-04-case-study-automotive-plant.md
+10-case-study-automotive-plant.md
 
-Objectif :
+Thèmes :
 
-Illustrer l'application du framework sur une opportunité réelle.
+- électrification
+- capacité réseau
+- BESS
+- time-to-power
+- financement
 
-Contenu principal :
+### Data Center
 
-- Customer Job
-- Flexibility Inventory
-- Business Model
-- Contract Structure
-- Partner Ecosystem
-- Investment Committee
+Fichier :
+
+11-case-study-datacenter.md
+
+Thèmes :
+
+- time-to-power
+- raccordement
+- résilience
+- capacité disponible
+
+### Chemical Plant
+
+Fichier :
+
+12-case-study-chemical-plant.md
+
+Thèmes :
+
+- DSM
+- optimisation énergétique
+- flexibilité de process
+- shared savings
+
+### Logistics Hub
+
+Fichier :
+
+13-case-study-logistics-hub.md
+
+Thèmes :
+
+- électrification flotte
+- smart charging
+- BESS
+- optimisation de puissance
 
 ## Capacités Clés
 
@@ -145,19 +152,6 @@ Construire :
 - la structure contractuelle
 - la stratégie de monétisation
 
-### Market Access
-
-Accéder aux marchés de flexibilité lorsque cela crée de la valeur.
-
-### Risk Management
-
-Identifier :
-
-- les risques
-- les responsabilités
-- les garanties
-- les mécanismes de protection
-
 ### Financing
 
 Déterminer :
@@ -165,6 +159,10 @@ Déterminer :
 - qui investit
 - qui porte l'actif
 - qui assume les risques financiers
+
+### Market Access
+
+Créer de la valeur à partir de la flexibilité résiduelle.
 
 ### Operations
 
@@ -184,13 +182,13 @@ Comment ENGIE peut-il :
 - valoriser la flexibilité industrielle ?
 - industrialiser les offres ?
 - standardiser les contrats ?
-- développer un portefeuille européen ?
 - améliorer la bancabilité ?
-- créer des offres réplicables ?
+- créer un portefeuille européen ?
+- construire des offres réplicables ?
 
 ## Vision Européenne
 
-Le même framework doit pouvoir être appliqué à :
+Le même framework doit pouvoir être appliqué en :
 
 - France
 - Allemagne
@@ -215,7 +213,7 @@ une offre de flexibilité rentable, bancable, exécutable et réplicable.
 
 ENGIE ne vend pas uniquement des technologies.
 
-ENGIE assemble :
+ENGIE combine :
 
 - expertise industrielle
 - énergie
