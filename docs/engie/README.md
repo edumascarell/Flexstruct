@@ -47,7 +47,7 @@ La valeur réside dans leur orchestration.
 
 Fichier :
 
-value-proposition.md
+02-value-proposition.md
 
 Objectif :
 
@@ -66,7 +66,7 @@ Contenu principal :
 
 Fichier :
 
-operating-model.md
+03-operating-model.md
 
 Objectif :
 
@@ -89,7 +89,7 @@ Contenu principal :
 
 Fichier :
 
-partner-ecosystem.md
+01-partner-ecosystem.md
 
 Objectif :
 
@@ -110,7 +110,7 @@ Contenu principal :
 
 Fichier :
 
-case-study-automotive-plant.md
+04-case-study-automotive-plant.md
 
 Objectif :
 
