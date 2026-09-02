@@ -37,7 +37,7 @@ Comprendre ce que le client cherche réellement à accomplir.
 
 Fichier :
 
-customer-jobs.md
+01-customer-jobs.md
 
 ### 2. Flexibility Inventory
 
@@ -45,7 +45,7 @@ Identifier les actifs et capacités réellement disponibles.
 
 Fichier :
 
-flexibility-inventory.md
+02-flexibility-inventory.md
 
 ### 3. Service Catalog
 
@@ -53,7 +53,7 @@ Définir le service à vendre.
 
 Fichier :
 
-service-catalog.md
+03-service-catalog.md
 
 ### 4. Business Models
 
@@ -61,13 +61,13 @@ Construire la logique économique.
 
 Fichier :
 
-business-models.md
+04-business-models.md
 
 ### 5. Contract Selection
 
 Module :
 
-../contracts/contract-selector.md
+../contracts/02-contract-selector.md
 
 ### 6. Risk Allocation
 
@@ -75,7 +75,7 @@ Attribuer chaque risque à la partie la mieux placée pour le gérer.
 
 Fichier :
 
-risk-allocation.md
+05-risk-allocation.md
 
 ### 7. Investment Committee
 
@@ -83,7 +83,7 @@ Préparer une décision d'investissement robuste.
 
 Fichier :
 
-investment-committee.md
+06-investment-committee.md
 
 ### 8. Decision Tree
 
@@ -91,7 +91,15 @@ Produire une recommandation finale.
 
 Fichier :
 
-decision-tree.md
+07-decision-tree.md
+
+### 9. IC summary template
+
+Exemple de brouillon pour présenter au IC.
+
+Fichier :
+
+08-ic-summary-template.md
 
 ## Logique de Décision
 
@@ -169,7 +177,7 @@ une décision structurée, défendable et réplicable.
  
 Le module Contract Selection est disponible dans :
  
-../contracts/contract-selector.md
+../contracts/02-contract-selector.md
 
 ## Conclusion
 
