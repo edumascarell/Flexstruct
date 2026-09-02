@@ -121,9 +121,9 @@ Les risques principaux sont :
 - dégradation
 - modification du profil client
 
-## Opportunité pour ENGIE
+## Opportunité pour COMMERCIAL
 
-ENGIE peut combiner :
+COMMERCIAL peut combiner :
 
 - supply
 - photovoltaïque
