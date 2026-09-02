@@ -34,7 +34,7 @@ Définitions des principaux concepts.
 
 Fichier :
 
-glossary.md
+01-glossary.md
 
 Contenu :
 
@@ -56,7 +56,7 @@ Méthodologie de sélection du contrat.
 
 Fichier :
 
-contract-selector.md
+02-contract-selector.md
 
 Contenu :
 
