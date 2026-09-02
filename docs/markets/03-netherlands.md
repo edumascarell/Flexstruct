@@ -117,9 +117,9 @@ Les risques principaux sont :
 - conflit entre client et gestionnaire de réseau
 - dépendance à une seule source de valeur
 
-## Opportunité pour ENGIE
+## Opportunité pour COMMERCIAL
 
-ENGIE peut créer une offre intégrée combinant :
+COMMERCIAL peut créer une offre intégrée combinant :
 
 - fourniture d'énergie
 - BESS
