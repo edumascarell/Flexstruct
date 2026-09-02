@@ -1,25 +1,37 @@
 # FLEXSTRUCT
 
-## Navigation
+## Repository Areas
 
 ### Framework
 
-framework/README.md
+Core methodology.
 
-### Contracts
+➡️ [Open Framework](framework/ntracts
 
-contracts/README.md
+Contract structures and selection.
 
-### Markets
-
-[Open MarketsE.md
+➡️ contracts/README.md
 
 ### Finance
 
-finance/README.md
+Economics and bankability.
 
-### Commercial
+➡️ finance/README.md
 
-[Open Commercial Development](t
+### Markets
 
-about/README.md
+European market analysis.
+
+➡️ markets/README.md
+
+### Commercial Development
+
+Operating model, partner ecosystem and case studies.
+
+➡️ commercial/README.md
+
+### About
+
+Author and background.
+
+➡️ [Open About](about/README
