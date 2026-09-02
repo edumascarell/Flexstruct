@@ -96,7 +96,7 @@ La priorité absolue est la disponibilité des véhicules nécessaires aux opér
 
 ## Partner Ecosystem
 
-### ENGIE
+### COMMERCIAL
 
 Responsable :
 
@@ -162,7 +162,7 @@ Storage as a Service
 
 Le client évite un investissement initial important.
 
-ENGIE fournit une solution intégrée combinant :
+COMMERCIAL fournit une solution intégrée combinant :
 
 - recharge intelligente
 - BESS
@@ -218,7 +218,7 @@ Investisseur
 
 Risque coordination :
 
-ENGIE
+COMMERCIAL
 
 ## Financial Logic
 
