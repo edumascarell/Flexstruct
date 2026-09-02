@@ -170,20 +170,24 @@ Le contrat est sélectionné en fonction :
 - de la création de valeur
  
 ## Résultat Final
-
-Étape 1 : Customer Job
-
-Étape 2 : Contrainte
-
-Étape 3 : Flexibility Inventory
-
-Étape 4 : Bloc Résiduel
-
-Étape 5 : Qualification
-
-Étape 6 : Contrat
-
-Étape 7 : Monétisation
+ 
+Customer Job
+ 
+Contrainte
+ 
+Flexibility Inventory
+ 
+Bloc Résiduel
+ 
+Qualification
+ 
+Contrat
+ 
+Monétisation
+ 
+Bancabilité
+ 
+Décision
 
  
 17
