@@ -73,13 +73,13 @@ Contenu principal :
 - spain.md
 - united-kingdom.md
 
-### ENGIE
+### COMMERCIAL
 
 Vision stratégique et operating model.
 
 Voir :
 
-docs/engie/
+docs/COMMERCIAL/
 
 Contenu principal :
 
