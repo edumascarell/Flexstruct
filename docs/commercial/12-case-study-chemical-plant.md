@@ -99,7 +99,7 @@ La priorité est la réduction du coût énergétique du client.
 
 ## Partner Ecosystem
 
-### ENGIE
+### COMMERCIAL
 
 Responsable :
 
@@ -206,7 +206,7 @@ Investisseur
 
 Risque coordination :
 
-ENGIE
+COMMERCIAL
 
 ## Financial Logic
 
