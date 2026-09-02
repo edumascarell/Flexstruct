@@ -33,7 +33,7 @@ La mission d'COMMERCIAL est de transformer ces besoins en services rentables, ba
 
 Fichier :
 
-01-value-proposition.md
+📄 [01-value-proposition.md](01-value-proposition.md)
 
 Objectif :
 
@@ -53,7 +53,7 @@ Contenu principal :
 
 Fichier :
 
-02-operating-model.md
+📄 [02-operating-model.md](02-operating-model.md)
 
 Objectif :
 
@@ -81,7 +81,7 @@ Le modèle présenté constitue une hypothèse de travail à valider avec COMMER
 
 Fichier :
 
-03-partner-ecosystem.md
+📄 [03-partner-ecosystem.md](03-partner-ecosystem.md)
 
 Objectif :
 
@@ -104,7 +104,7 @@ Contenu principal :
 
 Fichier :
 
-09-case-study-walkthrough.md
+📄 [09-case-study-walkthrough.md](09-case-study-walkthrough.md)
 
 Objectif :
 
@@ -149,7 +149,7 @@ Chaque étude suit une logique commune :
 
 Fichier :
 
-10-case-study-automotive-plant.md
+📄 [10-case-study-automotive-plant.md](10-case-study-automotive-plant.md)
 
 Service principal :
 
@@ -170,7 +170,7 @@ GO WITH CONDITIONS
 
 Fichier :
 
-11-case-study-datacenter.md
+📄 [11-case-study-datacenter.md](11-case-study-datacenter.md)
 
 Service principal :
 
@@ -191,7 +191,7 @@ GO
 
 Fichier :
 
-12-case-study-chemical-plant.md
+📄 [12-case-study-chemical-plant.md](12-case-study-chemical-plant.md)
 
 Service principal :
 
@@ -212,180 +212,4 @@ GO WITH CONDITIONS
 
 Fichier :
 
-13-case-study-logistics-hub.md
-
-Service principal :
-
-Electrification Enablement
-
-Création de valeur dominante :
-
-- électrification accélérée de la flotte
-- smart charging
-- optimisation du raccordement
-- disponibilité des véhicules
-
-Décision indicative :
-
-GO WITH CONDITIONS
-
-## Lecture comparative
-
-### Automotive Plant
-
-Valeur dominante :
-
-Electrification Enablement
-
-### Data Center
-
-Valeur dominante :
-
-Time-to-Power Enablement
-
-### Chemical Plant
-
-Valeur dominante :
-
-Industrial Competitiveness Enablement
-
-### Logistics Hub
-
-Valeur dominante :
-
-Fleet Electrification Enablement
-
-## Capacités clés
-
-### Customer Understanding
-
-Comprendre :
-
-- plan industriel
-- objectifs du client
-- contraintes
-- pains
-- gains attendus
-- volonté de payer
-
-### Solution Design
-
-Construire :
-
-- service
-- architecture technique
-- dimensionnement
-- modèle économique
-- structure contractuelle
-- stratégie de monétisation
-
-### Partner Orchestration
-
-Coordonner :
-
-- OEM
-- EPC
-- EMS
-- intégrateurs
-- optimisateurs
-- agrégateurs
-- investisseurs
-- opérateurs
-
-### Market Access
-
-Valoriser uniquement la flexibilité résiduelle compatible avec les priorités industrielles.
-
-### Risk Management
-
-Identifier :
-
-- risques
-- responsabilités
-- garanties
-- mesures de mitigation
-- risque résiduel
-
-### Financing
-
-Déterminer :
-
-- qui investit
-- qui possède l'actif
-- qui porte le financement
-- qui capture l'upside
-- qui assume le downside
-
-### Operations
-
-Garantir :
-
-- disponibilité
-- performance
-- sécurité
-- pilotage
-- reporting
-- respect des engagements client
-
-## Questions stratégiques
-
-Comment COMMERCIAL peut-il :
-
-- accélérer l'électrification ?
-- améliorer le time-to-power ?
-- valoriser la flexibilité industrielle ?
-- intégrer plusieurs technologies ?
-- industrialiser les offres ?
-- standardiser les contrats ?
-- améliorer la bancabilité ?
-- développer un portefeuille européen ?
-- construire des offres réplicables ?
-
-## Questions à valider avec COMMERCIAL
-
-Les éléments suivants doivent être confirmés :
-
-- propriété de la relation client
-- responsabilité du P&L
-- autorité de pricing
-- financement des actifs
-- responsabilité du risque merchant
-- contrôle du dispatch
-- rôle exact du Flex Hub
-- autonomie des entités pays
-- allocation de la marge
-- offres déjà standardisées
-- KPI du Business Developer
-
-## Résultat attendu
-
-Transformer un besoin industriel en une offre de flexibilité :
-
-- utile pour le client
-- rentable pour COMMERCIAL
-- bancable
-- contractuellement robuste
-- opérationnellement exécutable
-- réplicable à l'échelle européenne
-
-## Conclusion
-
-COMMERCIAL ne vend pas uniquement des technologies.
-
-COMMERCIAL peut combiner :
-
-- expertise industrielle
-- fourniture d'énergie
-- flexibilité
-- market access
-- trading
-- financement
-- contrats
-- partenaires
-- opérations
-
-pour résoudre des problèmes industriels complexes à grande échelle.
-
-La batterie, le DSM, le photovoltaïque, le smart charging et le V2G sont des outils.
-
-Le véritable produit est le service rendu au client.
+📄 [13-case-study-
