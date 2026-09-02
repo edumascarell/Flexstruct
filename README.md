@@ -1,89 +1,111 @@
-# FLEXSTRUCT
- 
-## Framework européen de qualification et de structuration de la flexibilité industrielle
- 
-### Thèse fondamentale
- 
-Le client industriel n'achète pas une batterie.
- 
-Il achète :
- 
-- la compétitivité
-- la capacité d'électrification
-- la continuité opérationnelle
-- la croissance
- 
-Les technologies ne sont que des moyens.
- 
-La véritable valeur réside dans le service rendu.
- 
-## Vision
- 
-Customer Job
- 
-↓
- 
-Pain
- 
-↓
- 
-Flexibility Inventory
- 
-↓
- 
-Service
- 
-↓
- 
-Technology Bundle
- 
-↓
- 
-Business Model
- 
-↓
- 
-Risk Allocation
- 
-↓
- 
-Contract
- 
-↓
- 
-Monetisation
- 
-↓
- 
-Operations
- 
-## Modules
- 
-### Framework
- 
-Méthodologie de qualification des opportunités.
- 
-### Contracts
- 
-Sélection et structuration contractuelle.
- 
-### Markets
- 
-Analyse des marchés européens de flexibilité.
- 
-### Finance
- 
-Modélisation économique des projets BESS.
- 
-### ENGIE
- 
-Vision du modèle Flex Hub et des offres de flexibilité.
- 
-### About
- 
-Profil et expérience d'Eduardo Mascarell.
- 
+# Framework FLEXSTRUCT
+
 ## Objectif
- 
-Transformer la complexité technique, réglementaire et commerciale
-de la flexibilité en un processus de décision reproductible.
+
+Transformer un besoin industriel en une recommandation d'investissement exécutable.
+
+## Parcours
+
+### 1. Customer Jobs
+
+Comprendre les objectifs industriels du client.
+
+Fichier :
+
+customer-jobs.md
+
+### 2. Flexibility Inventory
+
+Identifier la flexibilité réellement disponible.
+
+Fichier :
+
+flexibility-inventory.md
+
+### 3. Service Catalog
+
+Définir le service vendu.
+
+Fichier :
+
+service-catalog.md
+
+### 4. Business Models
+
+Construire le modèle économique.
+
+Fichier :
+
+business-models.md
+
+### 5. Contract Selector
+
+Choisir la structure contractuelle.
+
+Fichier :
+
+contract-selector.md
+
+### 6. Risk Allocation
+
+Attribuer les risques.
+
+Fichier :
+
+risk-allocation.md
+
+### 7. BESS Economics
+
+Valider la rentabilité.
+
+Voir :
+
+docs/finance/bess-economics.md
+
+### 8. Investment Committee
+
+Préparer la décision d'investissement.
+
+Fichier :
+
+investment-committee.md
+
+### 9. Decision Tree
+
+Produire une recommandation.
+
+Fichier :
+
+decision-tree.md
+
+## Résultat
+
+Besoin industriel
+
+↓
+
+Service
+
+↓
+
+Flexibilité
+
+↓
+
+Modèle économique
+
+↓
+
+Contrat
+
+↓
+
+Risques
+
+↓
+
+Rentabilité
+
+↓
+
+Décision
