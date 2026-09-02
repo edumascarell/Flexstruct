@@ -126,7 +126,7 @@
 ## Value Creation Logic
 
 ### Customer Value
-### ENGIE Value
+### COMMERCIAL Value
 ### Investor Value
 ### Partner Value
 
@@ -154,7 +154,7 @@
 
 ## Partner Mapping
 
-### ENGIE
+### COMMERCIAL
 ### OEM
 ### EMS Provider
 ### EPC
