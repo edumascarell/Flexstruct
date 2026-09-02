@@ -49,7 +49,7 @@ Comprendre comment ENGIE positionne la flexibilité industrielle.
 
 Fichier :
 
-02-value-proposition.md
+01-value-proposition.md
 
 Objectif :
 
@@ -59,7 +59,7 @@ Définir la proposition de valeur de la flexibilité industrielle.
 
 Fichier :
 
-03-operating-model.md
+02-operating-model.md
 
 Objectif :
 
@@ -69,7 +69,7 @@ Comprendre comment les différentes fonctions contribuent à une opportunité.
 
 Fichier :
 
-01-partner-ecosystem.md
+03-partner-ecosystem.md
 
 Objectif :
 
