@@ -1,0 +1,279 @@
+# Case Study
+
+## Data Center
+
+## Situation
+
+Un opérateur de data centers prévoit la construction d'un nouveau campus destiné à l'hébergement d'applications Cloud et Intelligence Artificielle.
+
+Le site nécessite :
+
+- 25 MW de puissance à court terme
+
+Le gestionnaire du réseau peut initialement fournir :
+
+- 15 MW
+
+Le renforcement du réseau ne sera disponible que plusieurs années plus tard.
+
+Le client ne souhaite pas retarder la mise en service de ses installations.
+
+## Customer Job
+
+Le client ne cherche pas à installer une batterie.
+
+Le client cherche à :
+
+- mettre en service son data center rapidement
+- sécuriser sa capacité informatique
+- respecter les engagements pris auprès de ses clients
+- accélérer son time-to-market
+- éviter un retard de son plan de croissance
+
+## Pain
+
+Le besoin de puissance est supérieur à la capacité immédiatement disponible.
+
+Sans solution :
+
+- retard du projet
+- perte de revenus
+- incapacité à accueillir de nouveaux clients
+- perte de compétitivité
+- risque de voir les charges IT déployées sur un autre site
+
+## Gain
+
+Le client souhaite :
+
+- accéder rapidement à la puissance nécessaire
+- sécuriser son calendrier de déploiement
+- conserver une trajectoire de croissance
+- limiter son exposition aux contraintes réseau
+- maintenir une haute disponibilité
+
+## Flexibility Inventory
+
+Charges identifiées :
+
+- systèmes de refroidissement
+- pompes
+- groupes auxiliaires
+- charges informatiques non critiques
+- systèmes de secours
+
+Actifs existants :
+
+- groupes électrogènes de secours
+- EMS local
+- systèmes de pilotage énergétique
+
+Actifs proposés :
+
+- BESS 12 MW
+- BESS 24 MWh
+
+Bloc résiduel estimé :
+
+- 4 MW à 6 MW selon les périodes
+- disponible principalement hors contraintes critiques d'exploitation
+
+## Service Selected
+
+Capacity Enablement
+
+Le service principal consiste à permettre la mise en service du data center sans attendre la disponibilité complète du réseau.
+
+La monétisation de flexibilité reste secondaire.
+
+La priorité absolue est la continuité de service.
+
+## Partner Ecosystem
+
+### ENGIE
+
+Responsable :
+
+- relation client
+- structuration commerciale
+- business model
+- financement
+- coordination du projet
+
+### OEM Battery
+
+Responsable :
+
+- fourniture du BESS
+- garantie de capacité
+- garantie de performance
+- support technique
+
+### EMS Provider
+
+Responsable :
+
+- pilotage énergétique
+- optimisation de puissance
+- reporting
+- intégration avec les systèmes du site
+
+### EPC
+
+Responsable :
+
+- ingénierie
+- construction
+- intégration
+- mise en service
+
+### Generator Supplier
+
+Responsable :
+
+- intégration des groupes de secours
+- coordination avec le BESS
+- disponibilité des systèmes de backup
+
+### Optimisation Partner
+
+Responsable :
+
+- accès aux marchés
+- forecast
+- valorisation du bloc résiduel
+
+### Investor
+
+Responsable :
+
+- financement de l'actif
+- suivi de la performance économique
+
+## Business Model
+
+Modèle retenu :
+
+Flexibility as a Service
+
+Le client achète une capacité disponible lui permettant d'accélérer son projet.
+
+ENGIE fournit un service complet.
+
+L'investisseur finance l'actif.
+
+## Contract Structure
+
+Contrat principal :
+
+Availability Payment
+
+Le client rémunère la disponibilité du service.
+
+Complément :
+
+Revenue Share sur la capacité résiduelle réellement disponible.
+
+Principe :
+
+La continuité d'exploitation du data center reste toujours prioritaire.
+
+La capacité utilisée pour garantir le service informatique n'est jamais exposée aux marchés.
+
+## Risk Allocation
+
+Risque exploitation Data Center :
+
+Client
+
+Risque construction :
+
+EPC
+
+Risque performance batterie :
+
+OEM
+
+Risque optimisation :
+
+Optimisateur
+
+Risque marché :
+
+Partagé
+
+Risque financement :
+
+Investisseur
+
+Risque coordination :
+
+ENGIE
+
+## Financial Logic
+
+Sources de valeur :
+
+- accélération du time-to-power
+- réduction du délai de mise sur le marché
+- capacité d'accueil de nouvelles charges IT
+- optimisation de puissance
+- revenus de flexibilité résiduelle
+
+La création de valeur principale est stratégique et industrielle.
+
+Les revenus de marché constituent une source complémentaire de valeur.
+
+Le business case ne doit pas dépendre exclusivement des revenus FCR, aFRR, mFRR ou d'arbitrage.
+
+## Investment Committee View
+
+Strategic Fit :
+
+Very Strong
+
+Customer Value :
+
+Very Strong
+
+Technical Feasibility :
+
+Strong
+
+Commercial Structure :
+
+Strong
+
+Risk :
+
+Medium
+
+Bankability :
+
+Strong
+
+Decision :
+
+GO
+
+## Conditions
+
+- validation finale du raccordement
+- validation de l'architecture de secours
+- contrat client signé
+- disponibilité des équipements critiques
+- validation du plan de financement
+
+## Key Learning
+
+La batterie n'est pas le produit.
+
+Le produit est :
+
+l'accélération de l'accès à la puissance nécessaire au développement du data center.
+
+Le BESS n'est qu'un outil permettant de réduire le délai entre la demande du client et la disponibilité effective de la capacité électrique.
+
+La valeur principale provient du time-to-power.
+
+Les revenus de marché ne sont qu'un complément.
