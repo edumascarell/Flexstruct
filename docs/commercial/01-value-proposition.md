@@ -1,8 +1,8 @@
-# ENGIE FLEX HUB
+# COMMERCIAL FLEX HUB
  
 ## Vision
  
-La différenciation d'ENGIE ne réside pas uniquement dans les batteries.
+La différenciation d'COMMERCIAL ne réside pas uniquement dans les batteries.
  
 Elle repose sur la capacité à intégrer :
  
