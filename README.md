@@ -2,184 +2,204 @@
 
 ## Industrial Flexibility Decision Intelligence
 
-FLEXSTRUCT est une méthodologie permettant de qualifier, structurer, financer et monétiser des opportunités de flexibilité industrielle en Europe.
+FLEXSTRUCT est une méthodologie permettant de qualifier, structurer, financer et monétiser des opportunités de flexibilité industrielle.
 
-Le point de départ n'est pas la technologie.
+## Core Thesis
 
-Le point de départ est le besoin industriel du client.
+Le client n'achète pas :
 
-## Thèse centrale
+- une batterie
+- un EMS
+- du FCR
+- du DSM
 
-Le client industriel n'achète pas une batterie.
-
-Il achète :
+Le client achète :
 
 - continuité opérationnelle
 - capacité d'électrification
 - compétitivité
 - croissance
 - visibilité financière
-- réduction des risques
 
 La technologie n'est qu'un moyen.
 
-## Navigation
+## Repository Structure
 
 ### Framework
 
-Méthodologie complète de qualification et de structuration.
+Méthodologie principale.
 
 Voir :
 
 docs/framework/
 
-Contenu principal :
+Modules :
 
-- customer-jobs.md
-- flexibility-inventory.md
-- service-catalog.md
-- business-models.md
-- contract-selector.md
-- risk-allocation.md
-- investment-committee.md
-- decision-tree.md
-
-### Finance
-
-Analyse économique des projets.
-
-Voir :
-
-docs/finance/
-
-Contenu principal :
-
-- bess-economics.md
-
-### Markets
-
-Analyse des marchés européens.
-
-Voir :
-
-docs/markets/
-
-Contenu principal :
-
-- france.md
-- germany.md
-- belgium.md
-- netherlands.md
-- spain.md
-- united-kingdom.md
-
-### COMMERCIAL
-
-Vision stratégique et operating model.
-
-Voir :
-
-docs/COMMERCIAL/
-
-Contenu principal :
-
-- value-proposition.md
-- operating-model.md
+- 01 Customer Jobs
+- 02 Flexibility Inventory
+- 03 Service Catalog
+- 04 Business Models
+- 05 Risk Allocation
+- 06 Investment Committee
+- 07 Decision Tree
+- 08 IC Summary Template
+- 09 Case Study Walkthrough
 
 ### Contracts
-
-Référentiel contractuel.
 
 Voir :
 
 docs/contracts/
 
-Contenu principal :
+Modules :
 
-- glossary.md
-- contract-selector.md
+- 01 Glossary
+- 02 Contract Selector
+
+### Finance
+
+Voir :
+
+docs/finance/
+
+Modules :
+
+- 01 BESS Economics
+
+### Markets
+
+Voir :
+
+docs/markets/
+
+Modules :
+
+- 01 France
+- 02 Germany
+- 03 Belgium
+- 04 Netherlands
+- 05 Spain
+- 06 United Kingdom
+
+### Commercial
+
+Voir :
+
+docs/commercial/
+
+Foundations :
+
+- 01 Value Proposition
+- 02 Operating Model
+- 03 Partner Ecosystem
+
+Case Studies :
+
+- 10 Automotive Manufacturing Plant
+- 11 Data Center
+- 12 Chemical Plant
+- 13 Logistics Hub
 
 ### About
-
-Profil de l'auteur.
 
 Voir :
 
 docs/about/
 
-Contenu principal :
+Modules :
 
-- emg.md
+- EMG Profile
 
-## Parcours recommandé
+## Recommended Reading Path
 
-Pour comprendre FLEXSTRUCT dans le bon ordre :
+### Step 1
 
-### Étape 1
+01 Customer Jobs
 
-customer-jobs.md
+### Step 2
 
-Comprendre le besoin industriel.
+02 Flexibility Inventory
 
-### Étape 2
+### Step 3
 
-flexibility-inventory.md
+03 Service Catalog
 
-Identifier la flexibilité disponible.
+### Step 4
 
-### Étape 3
+04 Business Models
 
-service-catalog.md
+### Step 5
 
-Définir le service vendu.
+02 Contract Selector
 
-### Étape 4
+### Step 6
 
-business-models.md
+05 Risk Allocation
 
-Construire le modèle économique.
+### Step 7
 
-### Étape 5
+01 BESS Economics
 
-contract-selector.md
+### Step 8
 
-Choisir la structure contractuelle.
+06 Investment Committee
 
-### Étape 6
+### Step 9
 
-risk-allocation.md
+08 IC Summary Template
 
-Attribuer les risques.
+### Step 10
 
-### Étape 7
+09 Case Study Walkthrough
 
-bess-economics.md
+## Case Studies
 
-Valider la rentabilité.
+FLEXSTRUCT est illustré à travers plusieurs secteurs :
 
-### Étape 8
+- Automotive Manufacturing
+- Data Centers
+- Chemical Industry
+- Logistics Hubs
 
-investment-committee.md
+## Deliverable
 
-Préparer la décision d'investissement.
+Le framework transforme :
 
-### Étape 9
+Industrial Need
 
-decision-tree.md
+↓
 
-Produire une recommandation finale.
+Service
 
-## Résultat attendu
+↓
 
-Le framework permet de transformer :
+Business Model
 
-un besoin industriel
+↓
 
-en
+Contract
 
-une décision d'investissement exécutable.
+↓
 
-## Auteur
+Risk
+
+↓
+
+Finance
+
+↓
+
+Investment Decision
+
+## Status
+
+FLEXSTRUCT V1.0
+
+Released
+
+September 2026
+
+## Author
 
 Eduardo Mascarell
 
@@ -187,5 +207,4 @@ Industrial Engineer
 
 Global Executive MBA
 
-Energy and Flexibility Business Development
-``
+Business Development & Industrial Flexibility
