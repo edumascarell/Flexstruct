@@ -29,10 +29,6 @@ La technologie n'est qu'un moyen.
 
 Méthodologie principale.
 
-Voir :
-
-docs/framework/
-
 Modules :
 
 - 01 Customer Jobs
@@ -47,10 +43,6 @@ Modules :
 
 ### Contracts
 
-Voir :
-
-docs/contracts/
-
 Modules :
 
 - 01 Glossary
@@ -58,19 +50,11 @@ Modules :
 
 ### Finance
 
-Voir :
-
-docs/finance/
-
 Modules :
 
 - 01 BESS Economics
 
 ### Markets
-
-Voir :
-
-docs/markets/
 
 Modules :
 
@@ -82,10 +66,6 @@ Modules :
 - 06 United Kingdom
 
 ### Commercial
-
-Voir :
-
-docs/commercial/
 
 Foundations :
 
@@ -101,10 +81,6 @@ Case Studies :
 - 13 Logistics Hub
 
 ### About
-
-Voir :
-
-docs/about/
 
 Modules :
 
