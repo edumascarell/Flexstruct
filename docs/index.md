@@ -37,3 +37,4 @@ Operating model, partner ecosystem and case studies.
 Author and background.
 
 ➡️ about/README.md
+<!-- rebuild -->
