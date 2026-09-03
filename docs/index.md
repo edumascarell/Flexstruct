@@ -6,25 +6,25 @@
 
 Core methodology.
 
-➡️ framework/README.md
+➡️ [Openwork/README.md
 
 ### Contracts
 
 Contract structures and selection.
 
-➡️ [Open ContractsE.md
+➡️ [Openacts/README.md
 
 ### Finance
 
 Economics and bankability.
 
-➡️ finance/README.md
+➡️ [Opence/README.md
 
 ### Markets
 
 European market analysis.
 
-➡️ markets/README.md
+➡️ [Open MarketsE.md
 
 ### Commercial Development
 
@@ -36,4 +36,4 @@ Operating model, partner ecosystem and case studies.
 
 Author and background.
 
-➡️ [Open/README.md
+➡️ about/README.md
