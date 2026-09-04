@@ -1,37 +1,72 @@
 # FLEXSTRUCT
 
-## Repository Areas
+## Industrial Flexibility Decision Intelligence
+
+A methodology to qualify, structure, finance and monetize industrial flexibility opportunities.
+
+## Core Thesis
+
+The client does not buy a battery.
+
+The client buys:
+
+- operational continuity
+- electrification capacity
+- competitiveness
+- growth
+- financial visibility
+- risk reduction
+
+Technology is only an enabler.
+
+## Start Here
 
 ### Framework
 
-Core methodology.
+Methodology and decision process.
 
-➡️ [Open FrameworkE.md
+➡️ framework/README.md
+
+### Commercial
+
+Value proposition, operating model and case studies.
+
+➡️ commercial/README.md
 
 ### Contracts
 
-Contract structures and selection.
+Contract selection and risk allocation.
 
 ➡️ contracts/README.md
 
 ### Finance
 
-Economics and bankability.
+Economics, profitability and bankability.
 
-➡️ [Open Finance](finance/READMEs
+➡️ finance/README.md
+
+### Markets
 
 European market analysis.
 
 ➡️ markets/README.md
 
-### Commercial Development
-
-Operating model, partner ecosystem and case studies.
-
-➡️ commercial/README.md
-
 ### About
 
-Author and background.
+Author and framework background.
 
 ➡️ about/README.md
+
+## Recommended Reading
+
+1. Framework
+2. Commercial
+3. Contracts
+4. Finance
+5. Markets
+
+## Status
+
+FLEXSTRUCT V1.1
+
+Released
