@@ -1,17 +1,26 @@
-site_name: FLEXSTRUCT
-
-docs_dir: docs
-
-theme:
-  name: material
-
 nav:
   - Home: index.md
 
+  - Framework:
+      - Overview: framework/README.md
+
+  - Contracts:
+      - Overview: contracts/README.md
+
+  - Finance:
+      - Overview: finance/README.md
+
   - Markets:
+      - Overview: markets/README.md
       - France: markets/01-france.md
       - Germany: markets/02-germany.md
-      - Netherlands: markets/03-netherlands.md
       - Belgium: markets/04-belgium.md
+      - Netherlands: markets/03-netherlands.md
       - Spain: markets/05-spain.md
-      - UK: markets/06-united-kingdom.md
+      - United Kingdom: markets/06-united-kingdom.md
+
+  - Commercial:
+      - Overview: commercial/README.md
+
+  - About:
+      - Overview: about/README.md
