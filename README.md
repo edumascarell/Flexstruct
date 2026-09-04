@@ -106,27 +106,27 @@ Modules :
 
 ### Step 5
 
-02 Contract Selector
+05 Contract Selector
 
 ### Step 6
 
-05 Risk Allocation
+06 Risk Allocation
 
 ### Step 7
 
-01 BESS Economics
+07 BESS Economics
 
 ### Step 8
 
-06 Investment Committee
+08 Investment Committee
 
 ### Step 9
 
-08 IC Summary Template
+09 IC Summary Template
 
 ### Step 10
 
-09 Case Study Walkthrough
+10 Case Study Walkthrough
 
 ## Case Studies
 
