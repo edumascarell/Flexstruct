@@ -19,43 +19,29 @@ The client buys:
 
 Technology is only an enabler.
 
-## Start Here
-
 ### Framework
 
 Methodology and decision process.
-
-➡️ framework/README.md
 
 ### Commercial
 
 Value proposition, operating model and case studies.
 
-➡️ commercial/README.md
-
 ### Contracts
 
 Contract selection and risk allocation.
-
-➡️ contracts/README.md
 
 ### Finance
 
 Economics, profitability and bankability.
 
-➡️ finance/README.md
-
 ### Markets
 
 European market analysis.
 
-➡️ markets/README.md
-
 ### About
 
 Author and framework background.
-
-➡️ about/README.md
 
 ## Recommended Reading
 
