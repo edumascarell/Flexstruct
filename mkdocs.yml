@@ -8,7 +8,7 @@ nav:
   - Home: index.md
 
   - Framework:
-      - Overview: framework/README.md
+      - Overview: framework/index.md
       - Customer Jobs: framework/01-customer-jobs.md
       - Flexibility Inventory: framework/02-flexibility-inventory.md
       - Service Catalog: framework/03-service-catalog.md
