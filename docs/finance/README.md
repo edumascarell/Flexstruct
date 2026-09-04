@@ -199,3 +199,25 @@ Les causes les plus fréquentes de rejet sont :
 La section Finance doit permettre de répondre à une question simple :
 
 Le projet crée-t-il suffisamment de valeur pour justifier l'investissement
+
+## Tools
+
+### BESS Financial Calculator
+
+Objectif :
+
+Permettre une évaluation rapide :
+
+- CAPEX
+- OPEX
+- Revenus
+- NPV
+- IRR
+- Payback
+- DSCR
+
+Utilisation :
+
+Le modèle complète le document :
+
+[01-bess-economics.md](01-bess-
