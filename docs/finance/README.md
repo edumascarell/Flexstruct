@@ -219,5 +219,9 @@ Permettre une évaluation rapide :
 Utilisation :
 
 Le modèle complète le document :
-
-docs/finance/bess-calculator.xlsx
+ 
+[01-bess-economics.md](01-bess-economics.md)
+ 
+Téléchargement :
+ 
+[bess-calculator.xlsx](bess-calculator.xlsx)
