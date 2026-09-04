@@ -1,7 +1,13 @@
 site_name: FLEXSTRUCT
 
+docs_dir: docs
+
+theme:
+  name: material
+
 nav:
   - Home: index.md
+
   - Markets:
       - France: markets/01-france.md
       - Germany: markets/02-germany.md
