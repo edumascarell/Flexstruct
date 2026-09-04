@@ -3,7 +3,7 @@ site_name: FLEXSTRUCT
 docs_dir: docs
  
 theme:
-name: material
+  name: material
 
 nav:
   - Home: index.md
