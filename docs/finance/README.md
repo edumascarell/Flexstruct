@@ -220,4 +220,4 @@ Utilisation :
 
 Le modèle complète le document :
 
-[01-bess-economics.md](01-bess-
+docs/finance/bess-calculator.xlsx
