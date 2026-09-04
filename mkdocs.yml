@@ -3,9 +3,19 @@ nav:
 
   - Framework:
       - Overview: framework/README.md
+      - Customer Jobs: framework/01-customer-jobs.md
+      - Flexibility Inventory: framework/02-flexibility-inventory.md
+      - Service Catalog: framework/03-service-catalog.md
+      - Business Models: framework/04-business-models.md
+      - Risk Allocation: framework/05-risk-allocation.md
+      - Investment Committee: framework/06-investment-committee.md
+      - Decision Tree: framework/07-decision-tree.md
+      - IC Summary Template: framework/08-ic-summary-template.md
 
   - Contracts:
       - Overview: contracts/README.md
+      - Glossary: contracts/01-glossary.md
+      - Contract Selector: contracts/02-contract-selector.md
 
   - Finance:
       - Overview: finance/README.md
@@ -14,13 +24,25 @@ nav:
       - Overview: markets/README.md
       - France: markets/01-france.md
       - Germany: markets/02-germany.md
-      - Belgium: markets/04-belgium.md
       - Netherlands: markets/03-netherlands.md
+      - Belgium: markets/04-belgium.md
       - Spain: markets/05-spain.md
       - United Kingdom: markets/06-united-kingdom.md
 
   - Commercial:
       - Overview: commercial/README.md
+      - Value Proposition: commercial/01-value-proposition.md
+      - Operating Model: commercial/02-operating-model.md
+      - Partner Ecosystem: commercial/03-partner-ecosystem.md
+      - Case Study Walkthrough: commercial/09-case-study-walkthrough.md
+      - Automotive Plant: commercial/10-case-study-automotive-plant.md
+      - Datacenter: commercial/11-case-study-datacenter.md
+      - Chemical Plant: commercial/12-case-study-chemical-plant.md
+      - Logistics Hub: commercial/13-case-study-logistics-hub.md
 
   - About:
       - Overview: about/README.md
+      - EMG Profile: about/emg.md
+
+  - Releases:
+      - Version 1.1: releases/v1.1-release.md
