@@ -23,18 +23,22 @@ Existe-t-il un bloc de flexibilité résiduelle garanti ?
 ## Étape 3
  
 Quel est l'objectif principal du client ?
- 
 - Revenus garantis
 - Partage de valeur
 - Maximisation des revenus
 - Réduction du risque
  
 ## Recommandations
+
+## Principe fondamental
  
+Le client industriel reste prioritaire.
+ 
+Seule la flexibilité résiduelle doit être commercialisée. 
+
 ### Revenue Floor + Revenue Share
  
 À privilégier lorsque :
- 
 - l'usage industriel reste prioritaire
 - la flexibilité disponible varie
 - le client souhaite conserver une partie de l'upside
@@ -42,27 +46,21 @@ Quel est l'objectif principal du client ?
 ### Tolling/ vTolling
  
 À privilégier lorsque :
- 
 - un bloc de flexibilité est disponible de manière prévisible
 - le client recherche des revenus stables
 - la visibilité long terme est élevée
+
+  
+### vFPA/ FPA
  
+À privilégier lorsque :
+ 
+- une valorisation long terme est recherchée
+- les revenus doivent être stabilisés 
+
 ### Merchant
  
 À privilégier lorsque :
  
 - le client accepte une forte volatilité
 - l'objectif est de maximiser les revenus
- 
-### vFPA/ FPA
- 
-À privilégier lorsque :
- 
-- une valorisation long terme est recherchée
-- les revenus doivent être stabilisés
- 
-## Principe fondamental
- 
-Le client industriel reste prioritaire.
- 
-Seule la flexibilité résiduelle doit être commercialisée.
