@@ -54,7 +54,7 @@ Quel est l'objectif principal du client ?
 - le client accepte une forte volatilité
 - l'objectif est de maximiser les revenus
  
-### vFPA
+### vFPA/ FPA
  
 À privilégier lorsque :
  
