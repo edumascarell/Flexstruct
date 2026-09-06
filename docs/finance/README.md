@@ -81,7 +81,7 @@ Quelle valeur est créée ?
 Pour :
 
 - le client
-- ENGIE
+- COMMERCIAL
 - l'investisseur
 - les partenaires
 
