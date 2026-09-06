@@ -43,12 +43,15 @@ Seule la flexibilité résiduelle doit être commercialisée. 
 - la flexibilité disponible varie
 - le client souhaite conserver une partie de l'upside
  
-Modèles contractuelles. 
-
+#### Modèles contractuelles. 
 
 ### Vendre l'actif
 
+Vente directe de la solution BESS
+
 ### Storage aaS
+
+Le BESS reste comme solution technologique pour donner le service.
 
 ### Shared Savings/ Revenue sharing
 
