@@ -43,7 +43,7 @@ Seule la flexibilité résiduelle doit être commercialisée. 
 - la flexibilité disponible varie
 - le client souhaite conserver une partie de l'upside
  
-#### Modèles contractuelles. 
+#### Modèles contractuels. 
 
 ### Vendre l'actif
 
