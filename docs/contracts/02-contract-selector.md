@@ -43,13 +43,21 @@ Seule la flexibilité résiduelle doit être commercialisée. 
 - la flexibilité disponible varie
 - le client souhaite conserver une partie de l'upside
  
+Modèles contractuelles. 
+
+
+### Vendre l'actif
+
+### Storage aaS
+
+### Shared Savings/ Revenue sharing
+
 ### Tolling/ vTolling
  
 À privilégier lorsque :
 - un bloc de flexibilité est disponible de manière prévisible
 - le client recherche des revenus stables
 - la visibilité long terme est élevée
-
   
 ### vFPA/ FPA
  
