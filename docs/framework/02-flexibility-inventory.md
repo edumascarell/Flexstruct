@@ -84,6 +84,10 @@ Elles peuvent inclure :
 
 Ces charges doivent être protégées avant toute proposition de monétisation.
 
+Les profils de consommation ont un impact direct sur la flexibilité disponible.
+ 
+../docs/Diff versions d'utilisation.png
+
 ## Charges flexibles
 
 Les charges flexibles peuvent être modifiées sans compromettre les objectifs industriels.
