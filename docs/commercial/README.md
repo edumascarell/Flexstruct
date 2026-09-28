@@ -1,23 +1,23 @@
 # CUSTOMER
-<br>
+
 ## Objective
-<br>
+
 Understand how CUSTOMER can develop, structure, finance, operate, and industrialize Behind-the-Meter flexibility solutions at a European scale.
-<br>
+
 This section brings together:
-<br>
+
 - the value proposition
 - the operating model
 - the partner strategy
 - the complete walkthrough
 - sector-specific case studies
-<br>
+
 ## Core Thesis
-<br>
+
 The industrial customer does not buy a battery.
-<br>
+
 The customer buys:
-<br>
+
 - operational continuity
 - electrification capability
 - competitiveness
