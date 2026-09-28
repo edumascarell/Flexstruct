@@ -65,7 +65,7 @@ Modules :
 - 05 Spain
 - 06 United Kingdom
 
-### Commercial
+### CUSTOMER
 
 Foundations :
 
